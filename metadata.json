@@ -1,5 +1,5 @@
 {
-  "name": "nate-yumrepos_fact",
+  "name": "dane_fact",
   "version": "0.2.1",
   "author": "Nate McCurdy",
   "summary": "Custom fact that shows the count of yumrepos.",
