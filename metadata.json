@@ -1,12 +1,12 @@
 {
-  "name": "puppet-custom-facts",
-  "version": "0.0.1",
-  "author": "No",
-  "summary": "Custom fact that reads from a file.",
+  "name": "nate-yumrepos_fact",
+  "version": "0.2.1",
+  "author": "Nate McCurdy",
+  "summary": "Custom fact that shows the count of yumrepos.",
   "license": "Apache-2.0",
-  "source": "https://github.com/dfetterman/puppet-custom-facts",
-  "project_page": "https://github.com/dfetterman/puppet-custom-facts",
-  "issues_url": "https://github.com/dfetterman/puppet-custom-facts/issues",
+  "source": "https://github.com/natemccurdy/yumrepos_fact",
+  "project_page": "https://github.com/natemccurdy/yumrepos_fact",
+  "issues_url": "https://github.com/natemccurdy/yumrepos_fact/issues",
   "dependencies": [ ],
   "operatingsystem_support": [
     {
